@@ -7,3 +7,8 @@
     font-family: "Cafe24BeHappy";
     src:url("./Cafe24Behappy.ttf")
 }
+
+@font-face {
+  font-family: "GabiaHealdot";
+  src: url("./GabiaHeuldot.ttf");
+}
